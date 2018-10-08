@@ -31,6 +31,7 @@ public class CartViewHoder extends RecyclerView.ViewHolder implements View.OnCli
 
     public CartViewHoder(View itemView) {
         super(itemView);
+        //w
 
         txt_cart_name = (TextView)itemView.findViewById(R.id.cart_item_name);
         txt_price = (TextView)itemView.findViewById(R.id.cart_item_Price);
