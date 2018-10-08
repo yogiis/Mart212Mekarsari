@@ -573,7 +573,7 @@ public class Cart extends AppCompatActivity implements GoogleApiClient.Connectio
                 if (!rdiCOD.isChecked() && !rdiPaypal.isChecked() && !rdiBalance.isChecked()) {
                     Toast.makeText(Cart.this, "Harap pilih metode pembayaran atau isi kolom yang kosong", Toast.LENGTH_SHORT).show();
 
-                    //fix crash fragment
+                    //fix crash fragment k
                     getFragmentManager().beginTransaction()
                             .remove(getFragmentManager().findFragmentById(R.id.place_autocomplete_fragment))
                             .commit();
