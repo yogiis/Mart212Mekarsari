@@ -421,7 +421,7 @@ public class Cart extends AppCompatActivity implements GoogleApiClient.Connectio
 
                         DecimalFormat format = new DecimalFormat("#.##");
                         double distance = locationA.distanceTo(locationB) / 1000;
-                        //txtCalculate.setText(format.format(distance) + " Km");
+                        //txtCalculate.setText(format.format(distance) + " Km").;
                         Locale locale = new Locale("in", "ID");
                         NumberFormat fmt = NumberFormat.getCurrencyInstance(locale);
                         double ongkir = distance * 4000;
