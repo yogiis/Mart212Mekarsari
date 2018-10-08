@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#535650</color>
+    <color name="colorPrimaryDark">#323430</color>
+    <color name="colorAccent">#2fa0d4</color>
+    <color name="ratingBar">#ead115</color>
+    <color name="colorSecond">#45aa4a</color>
+
+    <color name="colorBule">#3F87F6</color>
+    <color name="colorMilk">#f2f2f2</color>
+
+
+
+
+
+
+    <color name="DarkTransparant">#000000</color>
+    <color name="Transparant">#46a4a2a2</color>
+
+
+    <!--<color name="colorPrimaryDark">#00251a</color>-->
+
+    <color name="colorPrimary2">#004d40</color>
+
+
+   <!-- <color name="colorAccent">#39796b</color> -->
+
+
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignIn">#333639</color>
+    <color name="btnSignActive">#A9d440</color>
+
+   <!-- <color name="overlayBackground">#7f333639</color> -->
+
+
+    <color name="overlayBackground">#beffffff</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+    <color name="love">#cc3d5c</color>
+
+    <color name="colorProduk">#4f0e0d0e</color>
+
+    <color name="bgRowBackground">#ED1E24</color>
+
+</resources>

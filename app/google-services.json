@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "305960847237",
+    "firebase_url": "https://mart212mekarsari.firebaseio.com",
+    "project_id": "mart212mekarsari",
+    "storage_bucket": "mart212mekarsari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305960847237:android:a652b188a355565b",
+        "android_client_info": {
+          "package_name": "com.kkeu212.mart212mekarsari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305960847237-b471l71dumb24g9khsfb1dtu635ah2r3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kkeu212.mart212mekarsari",
+            "certificate_hash": "dd3b6fdb1c48e9c88872aa4cd2682486bb2e6958"
+          }
+        },
+        {
+          "client_id": "305960847237-munle1en19kv6atsb3mou3l3iodq759o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYk5n4eV9J71Pb2e7G-gsCyRBGJOsPOI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305960847237-munle1en19kv6atsb3mou3l3iodq759o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
