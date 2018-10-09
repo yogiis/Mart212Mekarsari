@@ -34,7 +34,7 @@
             android:layout_height="wrap_content" />
 
     </RelativeLayout>
-    
+
     <LinearLayout
         android:id="@+id/view_foreground"
         android:background="@android:color/white"
@@ -50,13 +50,13 @@
             android:layout_height="70dp" />
 
 
-        
+
         <LinearLayout
             android:orientation="vertical"
             android:layout_weight="9"
             android:layout_width="0dp"
             android:layout_height="wrap_content">
-            
+
             <TextView
                 android:id="@+id/cart_item_name"
                 android:layout_marginLeft="10dp"
@@ -86,7 +86,7 @@
             app:finalNumber="99"
             app:initialNumber="1"
             app:textSize="7sp" />
-        
+
 
 
     </LinearLayout>
